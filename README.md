@@ -8,12 +8,7 @@
 
 📫 How to reach me: **shivankardevayani@gmail.com**
 
-<hr style="border-style: none none dotted none;
-  width: 40px;
-  margin: 40px auto;
-  border-width: 10px;
-  border-color: #4e4e4e;">
-
+<hr style="border-style: none none dotted none; width: 40px; margin: 40px auto; border-width: 10px; border-color: #4e4e4e;">
 <h2 align="center">Tech familiar to me:</h3>
 <p align="center"> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -33,11 +28,6 @@
 <a href="https://cloud.google.com/bigquery" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="bigQuery" width="40" height="40"/> </a> 
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> and growing...
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
-
-<hr style="border-style: none none dotted none;
-  width: 40px;
-  margin: 40px auto;
-  border-width: 10px;
-  border-color: #4e4e4e;">
+<hr style="border-style: none none dotted none; width: 40px; margin: 40px auto; border-width: 10px; border-color: #4e4e4e;">
