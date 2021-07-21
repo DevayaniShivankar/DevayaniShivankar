@@ -1,4 +1,4 @@
-<h1 align="center">I'm Devayani Shivankar</h1>
+<h1 align="center">Hello 👋, I'm Devayani Shivankar</h1>
 
 🌱 I’m currently exploring **Blender**
 
