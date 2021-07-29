@@ -31,3 +31,6 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
 <hr style="border-style: none none dotted none; width: 40px; margin: 40px auto; border-width: 10px; border-color: #4e4e4e;">
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=devayanishivankar&theme=midnight-purple&count_private=true&show_icons=true)" alt="my-git-stats"> </p>
